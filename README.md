@@ -1,1 +1,2 @@
-# simple-infra-pratice
+# Logging for Spring boot
+
